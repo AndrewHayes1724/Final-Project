@@ -15,5 +15,5 @@ def removeDupes(string)
 string = 'aabcddc'
 string = removeDupes(string)
 print(string)
-# Output = b
+# Output = 'abcdc'
 ```
