@@ -6,6 +6,7 @@ A stack is a linear data structure which follows a specific order when operation
 This specific order is that the last in is the first out, or the first in is the last out. So there is only one "exit point". 
 
 ![here is an example image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/stack.png)
+
 This image is from [Geeksforgeeks.com](https://www.geeksforgeeks.org/stack-in-python/)
 
 In this image we can see that the insert function is typically implemented as .push, and the delete function is implemented as .pop in python which is our focus in this tutorial.
@@ -72,6 +73,7 @@ string = "cats"
 
 string = reverse(string)
 print(string)
+# output = 'stac'
 ```
 
 ## IV. Problem to Solve
