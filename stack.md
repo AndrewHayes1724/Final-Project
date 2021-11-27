@@ -6,7 +6,7 @@ A stack is a linear data structure which follows a specific order when operation
 This specific order is that the last in is the first out, or the first in is the last out. So there is only one "exit point". 
 
 ![here is an example image](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/stack.png)
-This image from [Geeksforgeeks.com](https://www.geeksforgeeks.org/stack-in-python/) and it shows how a stack works.
+This image is from [Geeksforgeeks.com](https://www.geeksforgeeks.org/stack-in-python/)
 
 In this image we can see that the insert function is typically implemented as .push, and the delete function is implemented as .pop in python which is our focus in this tutorial.
 
@@ -36,7 +36,7 @@ From this example we are able to complete 3 operations. And using the stack.pop(
 We can also see that the stack.append() function is used instead of stack.push(). This is because stack.append() lets us add to the top of the stack while the .push() would just add the element to the end of the stack. 
 For this reason we will focus on stack.append() only.
 
-**Note**: The stack.pop() function **removes** the item from the stack, so if we just want to access the data but not remove it, we have a few options.
+**Note**: The stack.pop() function **removes** the item from the stack.
 
 ## III. Example Problem
 In this example problem I will demonstrate how to reverse a string using a stack. 
