@@ -100,3 +100,4 @@ Thus we need to create a program that can dynamically check for the resulting st
 [Link to Solution](stacksolution.md)
 
 
+## [Link Back to Welcome Page](Welcome.md)
